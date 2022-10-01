@@ -32,8 +32,8 @@
 
 <img src="https://media0.giphy.com/media/FlPJcTplkfefDCKq2b/200w.webp?cid=ecf05e47n5e4jh5hdz2y0no5dwi6356ixqs72lepcp15r385&rid=200w.webp&ct=g" width="300" align="right" height="250">
 
-## [Click me]("https://github.com/dhrupad17/DSA-in-One-Go/blob/main/About.md") `to know more about this repository`
-## [Click me]("https://github.com/dhrupad17/DSA-in-One-Go/blob/main/Contributors.md") `to redirect to contributors list`
+## [Click me](https://github.com/dhrupad17/DSA-in-One-Go/blob/main/About.md) `to know more about this repository`
+## [Click me](https://github.com/dhrupad17/DSA-in-One-Go/blob/main/Contributors.md) `to redirect to contributors list`
 ## For any queries Connect with me 👇
 <p align="left">
 <a href="https://www.linkedin.com/in/dhrupad-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad chakraborty" height="30" width="40" /></a>
